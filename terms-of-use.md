@@ -4,7 +4,7 @@ Last updated: April 25, 2026
 
 ## 1. Service description
 
-Tiansui Almanac provides traditional almanac references, Four Pillars charting, Five Elements notes, and saved observations for cultural study and self-reflection.
+Tiansui Almanac provides traditional almanac references, Tiansui study notes, Five Elements context, and saved observations for cultural study and self-reflection.
 
 ## 2. Intended use
 

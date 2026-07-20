@@ -6,20 +6,20 @@ Effective date: April 16, 2026
 
 Tiansui Almanac respects your privacy. This Privacy Policy explains how information is handled when you use the current version of the Tiansui Almanac iOS app.
 
-Tiansui Almanac is a traditional almanac and Four Pillars reference app. In the current version, users can enter birth-related information to generate chart-based references directly in the app.
+Tiansui Almanac is a traditional almanac, date-reference, and Tiansui study app. In the current version, users can enter birth-related information to generate traditional study references directly in the app.
 
-The current MVP is designed to process readings locally on device and does not require account creation.
+The current version is designed to process study references locally on device and does not require account creation.
 
 ## 2. Information you enter
 
-To generate a reading, you may enter:
+To generate a study reference, you may enter:
 
 - name, optionally
 - birth date
 - birth time
 - timezone
 
-In the current MVP, this information is used to generate your reading inside the app.
+In the current version, this information is used to generate your study reference inside the app.
 
 ## 3. Data collection
 
@@ -36,7 +36,7 @@ Specifically, the current MVP does not include:
 
 ## 4. How information is processed
 
-In the current MVP, reading generation is intended to happen locally on your device. Information you enter is used to calculate and display your chart-based reading within the app experience.
+In the current version, study-reference generation is intended to happen locally on your device. Information you enter is used to calculate and display traditional reference notes within the app experience.
 
 ## 5. Tracking
 
@@ -44,11 +44,11 @@ Tiansui Almanac does not track you across apps or websites in the current versio
 
 ## 6. Data sharing
 
-In the current version, Tiansui Almanac does not sell your personal information and does not share your entered chart information with third parties for advertising purposes.
+In the current version, Tiansui Almanac does not sell your personal information and does not share your entered study information with third parties for advertising purposes.
 
 ## 7. Data retention
 
-In the current MVP, no developer-hosted user account database is used for storing your reading profile. If future versions introduce account features, sync, subscriptions, analytics, or customer support tooling, this Privacy Policy will be updated before those features are released.
+In the current version, no developer-hosted user account database is used for storing your study profile. If future versions introduce account features, sync, subscriptions, analytics, or customer support tooling, this Privacy Policy will be updated before those features are released.
 
 ## 8. Changes
 
