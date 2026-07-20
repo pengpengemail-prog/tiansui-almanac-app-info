@@ -12,7 +12,7 @@ Users may enter birth date, birth time, timezone, and an optional name to receiv
 
 ### Does the app require an account?
 
-No. The current MVP does not require account creation or sign in.
+No. The current version does not require account creation or sign in.
 
 ### Does the app need an internet connection?
 

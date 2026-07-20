@@ -25,7 +25,7 @@ In the current version, this information is used to generate your study referenc
 
 In the current version, Tiansui Almanac does not collect personal data from you on behalf of the developer.
 
-Specifically, the current MVP does not include:
+Specifically, the current version does not include:
 
 - account registration
 - user login

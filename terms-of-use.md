@@ -12,7 +12,7 @@ The app is intended for self-discovery, education, and entertainment. It does no
 
 ## 3. User input
 
-You may choose whether to enter name, birth date, birth time, and timezone. These inputs are used to generate your reading experience in the current MVP.
+You may choose whether to enter name, birth date, birth time, and timezone. These inputs are used to generate your study-reference experience in the current version.
 
 ## 4. Product changes
 
